@@ -1,8 +1,8 @@
-<h3 align="center">A passionate developer from Mexico</h3>
+<h3 align="center">A Computer Engineer from Mexico</h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm currently working of data analyst and monitoring 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning mobile development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
