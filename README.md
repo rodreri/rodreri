@@ -1,4 +1,4 @@
-<h3 align="center">A Computer Engineer from Mexico</h3>
+<h3 align="center">Hi! I´m Erick Rodrigo</h3>
 
 - 🔭 I'm currently working of data analyst and monitoring 
 
